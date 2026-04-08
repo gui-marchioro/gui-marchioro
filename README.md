@@ -24,18 +24,21 @@ I'm a Software Engineer with a background in Control and Automation Engineering,
 - C++ ⚡
 
 ### Frameworks & Tools
-- AngularJS
-- Git & GitHub
-- Linux 🐧
+- Web frameworks such as Django, FastAPI, Tornado
+- Linux, Embedded Linux
 - Embedded Systems
-- Automation & Testing Platforms
+- Git
+- Jira Environment (Bitbucket, Bamboo)
+- behave for BDD testing
+- AngularJS frontend
 
 ### Areas of Interest
 - Industrial Automation
 - System Architecture
 - Real-time Systems
-- Data Analysis & Visualization
-- Developer Productivity
+- Embedded Systems
+- Scalable systems
+- Networking
 
 ---
 
